@@ -12,6 +12,7 @@ Este projeto é uma parceria entre a Rede Articulação da Solidariedade (Rearts
 * [Gabrielly Cristiny Gonçalves Andrade](https://github.com/gabsandrade)
 * [Isabela Martins de Carvalho Pereira](https://github.com/isabelamartinez)
 * [Martha Beatriz Siqueira da Silva](https://github.com/marthabea)
+* [Andressa Cristina Chaves de Oliveira](https://github.com/andressachaves)
 
 
 ## Orientadora
